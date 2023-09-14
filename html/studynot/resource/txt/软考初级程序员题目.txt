@@ -1,0 +1,16 @@
+专业英语
+2021上半
+1、When the project team selects commercial software,it usually has to be (customized)
+to reflect the organization's needs.
+
+2、(Encryption) cannot prevent data from being lost or stolen,but it can make the data
+unreadable and unusable.
+
+3、(Grapnical User Interface(GUI)) uses icons to represent information and features on a
+computer.
+
+4、The human-readable version of a program,created in a high-level language by a 
+programmer,is called (source) code.
+
+5、To datermine whether two computers are (compatible),you have to consider if they run
+the same software and run the same peripheral devices.
